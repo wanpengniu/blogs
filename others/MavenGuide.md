@@ -17,10 +17,10 @@
 
 ## 创建项目
 	
-	输入下面的命令新建一个maven项目。
+   输入下面的命令新建一个maven项目。
 
-	```
-	mvn archetype:generate -DgroupId=org.wanpengniu.maventest -DartifactId=maventest -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false DarchetypeCatalog=local
-	```
+   ```
+   mvn archetype:generate -DgroupId=org.wanpengniu.maventest -DartifactId=maventest -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false DarchetypeCatalog=local
+   ```
 
 
